@@ -31,19 +31,18 @@
 ## TODOs
 
 - [ ] routing
-- [ ] typeorm - postgres
-- [ ]
+- [ ] database config --typeorm --postgres
 
 ## Rodar o projeto
 
 -- Para rodar o projeto primeiro clone-o
 
-git clone "URL DO PROJETO"
-cd "PASTA DO PROJETO"
-npm i
+git clone "URL DO PROJETO"<br>
+cd "PASTA DO PROJETO"<br>
+npm i<br>
 
 -- Scripts
 
-npm run build "Builda o projeto e o salva na dasta ./dist"
-npm run start "Starta o arquivo /dist/index.js"
-npm run dev "Builda e sobe o projeto com nodemon"
+npm run build "Builda o projeto e o salva na dasta ./dist"<br>
+npm run start "Starta o arquivo /dist/index.js"<br>
+npm run dev "Builda e sobe o projeto com nodemon"<br>
