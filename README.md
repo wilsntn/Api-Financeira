@@ -30,8 +30,10 @@
 
 ## TODOs
 
-- [ ] routing
-- [ ] database config --typeorm --postgres
+- [x] routing
+- [x] database config --typeorm --postgres
+- [ ] fix classes indexing
+- [ ] fix repository returning no metadata from requests
 
 ## Rodar o projeto
 
